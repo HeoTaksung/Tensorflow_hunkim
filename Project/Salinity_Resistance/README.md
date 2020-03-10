@@ -4,7 +4,7 @@
 
 ## 1. 데이터 구조
 
-![Data](https://github.com/HeoTaksung/Tensorflow_hunkim/blob/master/Project/Salinity_Resistance/Data_Structure.PNG)
+![Data](https://github.com/HeoTaksung/Tensorflow_hunkim/blob/master/Project/Salinity_Resistance/Data__Structure.PNG)
 
 ## 2. 결과
 
